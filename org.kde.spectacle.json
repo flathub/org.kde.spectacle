@@ -36,12 +36,12 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ksnip/kColorPicker.git",
-                    "tag": "v0.3.0",
+                    "tag": "v0.3.1",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
                     },
-                    "commit": "f52b3af0cf24fd40596fd637872deb3825008283"
+                    "commit": "522e38b61e0786b97b2114c273a4551c869335be"
                 }
             ]
         },
