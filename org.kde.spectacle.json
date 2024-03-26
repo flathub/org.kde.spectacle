@@ -36,12 +36,12 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ksnip/kColorPicker.git",
-                    "tag": "v0.3.0",
+                    "tag": "v0.3.1",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
                     },
-                    "commit": "f52b3af0cf24fd40596fd637872deb3825008283"
+                    "commit": "522e38b61e0786b97b2114c273a4551c869335be"
                 }
             ]
         },
@@ -71,8 +71,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/spectacle-23.08.4.tar.xz",
-                    "sha256": "7865e53d4311551b51a95ba0a55a78058518d1b8938d2059e6face0c2e00cd13",
+                    "url": "https://download.kde.org/stable/release-service/24.02.1/src/spectacle-24.02.1.tar.xz",
+                    "sha256": "5746bc02ab89de56ba3f3bb4adf72cd87d08b0fb60037081481b43a7a364ea57",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
