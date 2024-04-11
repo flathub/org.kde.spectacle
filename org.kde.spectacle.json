@@ -36,12 +36,12 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ksnip/kColorPicker.git",
-                    "tag": "v0.3.0",
+                    "tag": "v0.3.1",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
                     },
-                    "commit": "f52b3af0cf24fd40596fd637872deb3825008283"
+                    "commit": "522e38b61e0786b97b2114c273a4551c869335be"
                 }
             ]
         },
@@ -54,8 +54,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/5.27.4/kpipewire-5.27.4.tar.xz",
-                    "sha256": "a653408693ea16fee1b12a447982af48823aae86e5813b30b5a889cd2b883165",
+                    "url": "https://download.kde.org/stable/plasma/6.0.3/kpipewire-6.0.3.tar.xz",
+                    "sha256": "1aba7a04bf35c8869068af387845121b5db4e7e61f1990e4deb86cb683a0527e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -71,8 +71,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/spectacle-23.08.4.tar.xz",
-                    "sha256": "7865e53d4311551b51a95ba0a55a78058518d1b8938d2059e6face0c2e00cd13",
+                    "url": "https://download.kde.org/stable/release-service/24.02.2/src/spectacle-24.02.2.tar.xz",
+                    "sha256": "4118f7355eb0584deb2a88ce46ece7b616880397f0ab2b810cbe4cbc21742152",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
