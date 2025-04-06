@@ -133,7 +133,7 @@
                     "sha256": "52ee954d59dabe5dc7a3cc67b16d61ecb39a12dd5966128648efbf04b4baccfa",
                     "x-checker-data": {
                         "type": "anitya",
-                        "project-id": 8763,
+                        "project-id": 8761,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/plasma/$version/spectacle-$version.tar.xz"
                     }
