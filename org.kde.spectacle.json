@@ -75,8 +75,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.4/layer-shell-qt-6.3.4.tar.xz",
-                    "sha256": "f80c983f48d3abefd6684ce93fc67368ce207f2160734d4e113a418c69a26346",
+                    "url": "https://download.kde.org/stable/plasma/6.3.5/layer-shell-qt-6.3.5.tar.xz",
+                    "sha256": "7062ca0e50dcce97dd11d8adf1b86d49f1c56423f2341dceb3ea40dc48206e25",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -129,8 +129,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.4/spectacle-6.3.4.tar.xz",
-                    "sha256": "52ee954d59dabe5dc7a3cc67b16d61ecb39a12dd5966128648efbf04b4baccfa",
+                    "url": "https://download.kde.org/stable/plasma/6.3.5/spectacle-6.3.5.tar.xz",
+                    "sha256": "defcb1b2ea285be8c5d9c9ede389a6628e0bce5d99d0916ce9258655239ef160",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
