@@ -55,8 +55,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.4/kpipewire-6.3.4.tar.xz",
-                    "sha256": "bbfd42737b5968fbc855e974aa68739e87ccd24b0a6e23d71afc0e98a9115458",
+                    "url": "https://download.kde.org/stable/plasma/6.3.5/kpipewire-6.3.5.tar.xz",
+                    "sha256": "99b612bbe0fe3f44054fc57131e05fc005f675ccc071a088b5a0f154d03af2f7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -129,8 +129,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.4/spectacle-6.3.4.tar.xz",
-                    "sha256": "52ee954d59dabe5dc7a3cc67b16d61ecb39a12dd5966128648efbf04b4baccfa",
+                    "url": "https://download.kde.org/stable/plasma/6.3.5/spectacle-6.3.5.tar.xz",
+                    "sha256": "defcb1b2ea285be8c5d9c9ede389a6628e0bce5d99d0916ce9258655239ef160",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
