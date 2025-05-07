@@ -55,8 +55,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.4/kpipewire-6.3.4.tar.xz",
-                    "sha256": "bbfd42737b5968fbc855e974aa68739e87ccd24b0a6e23d71afc0e98a9115458",
+                    "url": "https://download.kde.org/stable/plasma/6.3.5/kpipewire-6.3.5.tar.xz",
+                    "sha256": "99b612bbe0fe3f44054fc57131e05fc005f675ccc071a088b5a0f154d03af2f7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
