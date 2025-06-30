@@ -129,8 +129,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.5/spectacle-6.3.5.tar.xz",
-                    "sha256": "defcb1b2ea285be8c5d9c9ede389a6628e0bce5d99d0916ce9258655239ef160",
+                    "url": "https://download.kde.org/stable/plasma/6.4.1/spectacle-6.4.1.tar.xz",
+                    "sha256": "547b8cc651730916104a8b1313504814eca7fe6a5abce254c10b37ffa1b13e34",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
