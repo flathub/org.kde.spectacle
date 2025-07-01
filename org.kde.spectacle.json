@@ -55,8 +55,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.5/kpipewire-6.3.5.tar.xz",
-                    "sha256": "99b612bbe0fe3f44054fc57131e05fc005f675ccc071a088b5a0f154d03af2f7",
+                    "url": "https://download.kde.org/stable/plasma/6.4.2/kpipewire-6.4.2.tar.xz",
+                    "sha256": "d59f8be954d23ac4b9f3ed28bcc5a22e8aaebeadf51c2834499b7694ca90ce1c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -75,8 +75,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.5/layer-shell-qt-6.3.5.tar.xz",
-                    "sha256": "7062ca0e50dcce97dd11d8adf1b86d49f1c56423f2341dceb3ea40dc48206e25",
+                    "url": "https://download.kde.org/stable/plasma/6.4.2/layer-shell-qt-6.4.2.tar.xz",
+                    "sha256": "7bead02f506e7c1efadc61588cc52e8ed2fa467ca183485c3b7280c08a5a6312",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -129,8 +129,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.5/spectacle-6.3.5.tar.xz",
-                    "sha256": "defcb1b2ea285be8c5d9c9ede389a6628e0bce5d99d0916ce9258655239ef160",
+                    "url": "https://download.kde.org/stable/plasma/6.4.2/spectacle-6.4.2.tar.xz",
+                    "sha256": "18b1d0b7e26680666eb86a2b0908c36d9e17a498b352944d89b901183920e0cb",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
