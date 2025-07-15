@@ -55,8 +55,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.5/kpipewire-6.3.5.tar.xz",
-                    "sha256": "99b612bbe0fe3f44054fc57131e05fc005f675ccc071a088b5a0f154d03af2f7",
+                    "url": "https://download.kde.org/stable/plasma/6.4.3/kpipewire-6.4.3.tar.xz",
+                    "sha256": "1866d966ce61bb83ed1d45dcc0db1a8ba91971762681368a3357d86438fa9642",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -75,8 +75,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.5/layer-shell-qt-6.3.5.tar.xz",
-                    "sha256": "7062ca0e50dcce97dd11d8adf1b86d49f1c56423f2341dceb3ea40dc48206e25",
+                    "url": "https://download.kde.org/stable/plasma/6.4.3/layer-shell-qt-6.4.3.tar.xz",
+                    "sha256": "33e64ec0cd2d9e9547c3c3faa9c4d6a2006bf681fac361511f441b51f9dddb7c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -101,8 +101,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/opencv/opencv/archive/4.11.0.tar.gz",
-                    "sha256": "9a7c11f924eff5f8d8070e297b322ee68b9227e003fd600d4b8122198091665f",
+                    "url": "https://github.com/opencv/opencv/archive/4.12.0.tar.gz",
+                    "sha256": "44c106d5bb47efec04e531fd93008b3fcd1d27138985c5baf4eafac0e1ec9e9d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6615,
@@ -112,8 +112,8 @@
                 },
                 {
                     "type": "archive",
-                    "url": "https://github.com/opencv/opencv_contrib/archive/4.11.0.tar.gz",
-                    "sha256": "2dfc5957201de2aa785064711125af6abb2e80a64e2dc246aca4119b19687041",
+                    "url": "https://github.com/opencv/opencv_contrib/archive/4.12.0.tar.gz",
+                    "sha256": "4197722b4c5ed42b476d42e29beb29a52b6b25c34ec7b4d589c3ae5145fee98e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6615,
@@ -129,8 +129,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.5/spectacle-6.3.5.tar.xz",
-                    "sha256": "defcb1b2ea285be8c5d9c9ede389a6628e0bce5d99d0916ce9258655239ef160",
+                    "url": "https://download.kde.org/stable/plasma/6.4.3/spectacle-6.4.3.tar.xz",
+                    "sha256": "9986fc091f913a3f0e1520bd8b3a33e9c174e03f48b4b2af3192bd8a31bb29d8",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
