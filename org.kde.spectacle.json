@@ -112,8 +112,8 @@
                 },
                 {
                     "type": "archive",
-                    "url": "https://github.com/opencv/opencv_contrib/archive/4.11.0.tar.gz",
-                    "sha256": "2dfc5957201de2aa785064711125af6abb2e80a64e2dc246aca4119b19687041",
+                    "url": "https://github.com/opencv/opencv_contrib/archive/4.12.0.tar.gz",
+                    "sha256": "4197722b4c5ed42b476d42e29beb29a52b6b25c34ec7b4d589c3ae5145fee98e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6615,
