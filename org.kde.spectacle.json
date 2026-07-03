@@ -55,8 +55,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.5.5/kpipewire-6.5.5.tar.xz",
-                    "sha256": "4aacdb440cb09df418228aafce12d2565a894b3a8b98f34f05aa5a6f1ebce354",
+                    "url": "https://download.kde.org/stable/plasma/6.7.2/kpipewire-6.7.2.tar.xz",
+                    "sha256": "68bd246f4d403d3d7f49bd2ffcd4e0d12bc55fa81554533f750ac2e4bb5aa61e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -75,8 +75,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.5.5/layer-shell-qt-6.5.5.tar.xz",
-                    "sha256": "6844fee55b8b7cbc320cd8308b51595ef830d5a99b4d355b0fd59f88feab2c11",
+                    "url": "https://download.kde.org/stable/plasma/6.7.2/layer-shell-qt-6.7.2.tar.xz",
+                    "sha256": "392cd82742f109452f874d14f5d391a823c7b021bdc2446c0f474b3d1e77b129",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -101,8 +101,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/opencv/opencv/archive/4.13.0.tar.gz",
-                    "sha256": "1d40ca017ea51c533cf9fd5cbde5b5fe7ae248291ddf2af99d4c17cf8e13017d",
+                    "url": "https://github.com/opencv/opencv/archive/5.0.0.tar.gz",
+                    "sha256": "b0528f5a1d379d59d4701cb28c36e22214cc51cf64594e5b56f2d3e6c0233095",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6615,
@@ -112,8 +112,8 @@
                 },
                 {
                     "type": "archive",
-                    "url": "https://github.com/opencv/opencv_contrib/archive/4.13.0.tar.gz",
-                    "sha256": "1e0077a4fd2960a7d2f4c9e49d6ba7bb891cac2d1be36d7e8e47aa97a9d1039b",
+                    "url": "https://github.com/opencv/opencv_contrib/archive/5.0.0.tar.gz",
+                    "sha256": "c58f6344170c39abf187c56f3843b59cab1fd3e89cf19ba2ce25dc061659b27f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6615,
