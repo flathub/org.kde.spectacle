@@ -55,8 +55,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.5.5/kpipewire-6.5.5.tar.xz",
-                    "sha256": "4aacdb440cb09df418228aafce12d2565a894b3a8b98f34f05aa5a6f1ebce354",
+                    "url": "https://download.kde.org/stable/plasma/6.7.4/kpipewire-6.7.4.tar.xz",
+                    "sha256": "2020a6a94bb7726ec68004c7946ad7f6ed450dcee8f4e8b710c3680755afb1ab",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -75,8 +75,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.5.5/layer-shell-qt-6.5.5.tar.xz",
-                    "sha256": "6844fee55b8b7cbc320cd8308b51595ef830d5a99b4d355b0fd59f88feab2c11",
+                    "url": "https://download.kde.org/stable/plasma/6.7.4/layer-shell-qt-6.7.4.tar.xz",
+                    "sha256": "6a5b064619739c6f4a2de70c56abfbadfc334dcb626152a1e8188a807ca86567",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -101,8 +101,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/opencv/opencv/archive/4.13.0.tar.gz",
-                    "sha256": "1d40ca017ea51c533cf9fd5cbde5b5fe7ae248291ddf2af99d4c17cf8e13017d",
+                    "url": "https://github.com/opencv/opencv/archive/5.0.0.tar.gz",
+                    "sha256": "b0528f5a1d379d59d4701cb28c36e22214cc51cf64594e5b56f2d3e6c0233095",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6615,
